@@ -9,7 +9,8 @@
 - [License & Citation](#license--citation)
 
 ---## capture
-![portfolio overview](images/capture-1 .png)
+![portfolio overview](images/capture-1 .png)<img width="283" height="211" alt="image" src="https://github.com/user-attachments/assets/26d675fc-ecec-4f85-bd52-deaa83decaaa" />
+
 
 ## 📁 Dataset Overview
 
